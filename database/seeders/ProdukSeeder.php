@@ -31,7 +31,7 @@ class ProdukSeeder extends Seeder
             ],
             [
                 'nama' => 'Green Tea Lemonade',
-                'gambar_url' => 'https://www.pipercooks.com/wp-content/uploads/2022/06/green-tea-lemonade-sq.jpg', // edit gambar
+                'gambar_url' => 'https://st2.depositphotos.com/1692343/7179/i/450/depositphotos_71796819-stock-photo-homemade-iced-tea-and-lemonade.jpg', // edit gambar
                 'kategori' => 'Beverages',
                 'harga' => 5.49,
                 'deskripsi' => 'A perfect blend of green tea and fresh lemon. Healthy and refreshing.',
@@ -60,7 +60,7 @@ class ProdukSeeder extends Seeder
             ],
             [
                 'nama' => 'Fish and Chips',
-                'gambar_url' => 'https://wallpapers.com/images/file/perfectly-fried-fish-and-chips-1qfc430mwbqnmqy3.jpg', // edit gambar
+                'gambar_url' => 'https://wallpapers.com/images/file/perfectly-fried-fish-and-chips-1qfc430mwbqnmqy3.jpg',
                 'kategori' => 'Food',
                 'harga' => 11.49,
                 'deskripsi' => 'Crispy battered fish served with golden fries and tartar sauce.',
@@ -80,7 +80,7 @@ class ProdukSeeder extends Seeder
             ],
             [
                 'nama' => 'Pepperoni Pizza',
-                'gambar_url' => 'https://static.vecteezy.com/system/resources/previews/029/563/152/non_2x/pepperoni-pizza-isolated-free-photo.jpg', // edit gambar
+                'gambar_url' => 'https://static.vecteezy.com/system/resources/previews/029/563/152/non_2x/pepperoni-pizza-isolated-free-photo.jpg',
                 'kategori' => 'Pizza',
                 'harga' => 16.99,
                 'deskripsi' => 'Loaded with pepperoni slices, mozzarella cheese, and our signature tomato sauce.',
@@ -100,7 +100,7 @@ class ProdukSeeder extends Seeder
             // Drink Category
             [
                 'nama' => 'Mango Smoothie',
-                'gambar_url' => 'https://www.eatingbirdfood.com/wp-content/uploads/2021/05/mango-smoothie-angle-1024x1536.jpg', // edit gambar
+                'gambar_url' => 'https://www.eatingbirdfood.com/wp-content/uploads/2021/05/mango-smoothie-angle-1024x1536.jpg',
                 'kategori' => 'drink',
                 'harga' => 5.99,
                 'deskripsi' => 'Creamy mango smoothie made with fresh mangoes and yogurt. Tropical delight!',
@@ -109,7 +109,7 @@ class ProdukSeeder extends Seeder
             ],
             [
                 'nama' => 'Iced Chocolate',
-                'gambar_url' => 'https://img.freepik.com/premium-photo/ice-chocolate_51764-2795.jpg', // edit gambar
+                'gambar_url' => 'https://www.shutterstock.com/image-photo/close-glass-iced-cocoa-cool-260nw-1061011808.jpg', // edit gambar
                 'kategori' => 'drink',
                 'harga' => 5.49,
                 'deskripsi' => 'Rich chocolate drink served cold with whipped cream topping.',
@@ -129,7 +129,7 @@ class ProdukSeeder extends Seeder
             // Launch Category (Lunch items)
             [
                 'nama' => 'Chicken Teriyaki Bowl',
-                'gambar_url' => 'https://www.wholesomeyum.com/wp-content/uploads/2023/05/wholesomeyum-Teriyaki-Chicken-Bowl-5.jpg', // edit gambar
+                'gambar_url' => 'https://www.wholesomeyum.com/wp-content/uploads/2023/05/wholesomeyum-Teriyaki-Chicken-Bowl-5.jpg',
                 'kategori' => 'launch',
                 'harga' => 10.49,
                 'deskripsi' => 'Grilled chicken with teriyaki sauce served over steamed rice with vegetables.',
@@ -138,7 +138,7 @@ class ProdukSeeder extends Seeder
             ],
             [
                 'nama' => 'Beef Steak Set',
-                'gambar_url' => 'https://cdn.pixabay.com/photo/2017/04/30/09/30/steak-2272464_1280.jpg', // edit gambar
+                'gambar_url' => 'https://cdn.pixabay.com/photo/2017/04/30/09/30/steak-2272464_1280.jpg',
                 'kategori' => 'launch',
                 'harga' => 19.99,
                 'deskripsi' => 'Tender beef steak with mashed potatoes, grilled vegetables, and black pepper sauce.',
@@ -158,7 +158,7 @@ class ProdukSeeder extends Seeder
             // Burger Category
             [
                 'nama' => 'Classic Beef Burger',
-                'gambar_url' => 'https://cdn.pixabay.com/photo/2022/07/15/18/16/beef-burger-7323692_1280.jpg', // edit gambar
+                'gambar_url' => 'https://cdn.pixabay.com/photo/2022/07/15/18/16/beef-burger-7323692_1280.jpg',
                 'kategori' => 'burger',
                 'harga' => 10.99,
                 'deskripsi' => 'Juicy beef patty with lettuce, tomato, onions, pickles, and our special sauce.',
@@ -167,7 +167,7 @@ class ProdukSeeder extends Seeder
             ],
             [
                 'nama' => 'Cheese Burger Deluxe',
-                'gambar_url' => 'https://d2j6dbq0eux0bg.cloudfront.net/images/77595433/3188982612.jpg', // edit gambar
+                'gambar_url' => 'https://static.vecteezy.com/system/resources/thumbnails/045/607/037/small/delicious-cheeseburger-close-up-photo.jpg', // edit gambar
                 'kategori' => 'burger',
                 'harga' => 13.99,
                 'deskripsi' => 'Double beef patty with melted cheddar cheese, bacon, and caramelized onions.',
@@ -176,7 +176,7 @@ class ProdukSeeder extends Seeder
             ],
             [
                 'nama' => 'Chicken Burger',
-                'gambar_url' => 'https://asset.kompas.com/crops/OPweNZPUYOcMwxdNB3L63ACZbO8=/120x113:815x577/1200x800/data/photo/2022/01/25/61ef4b60ead1d.jpeg', // edit gambar
+                'gambar_url' => 'https://t3.ftcdn.net/jpg/00/40/24/60/360_F_40246031_zWZoDrKKr4jusGNtSpKV7Zvy9VdeIi88.jpg', // edit gambar
                 'kategori' => 'burger',
                 'harga' => 10.49,
                 'deskripsi' => 'Crispy fried chicken breast with coleslaw and mayo in a soft bun.',
@@ -185,7 +185,7 @@ class ProdukSeeder extends Seeder
             ],
             [
                 'nama' => 'Mushroom Swiss Burger',
-                'gambar_url' => 'https://www.emilyenchanted.com/wp-content/uploads/2023/02/Mushroom-Swiss-Burger-Featured-Image-1024x1024.jpg', // edit gambar
+                'gambar_url' => 'https://www.emilyenchanted.com/wp-content/uploads/2023/02/Mushroom-Swiss-Burger-Featured-Image-1024x1024.jpg',
                 'kategori' => 'burger',
                 'harga' => 11.49,
                 'deskripsi' => 'Beef patty topped with sautéed mushrooms and melted Swiss cheese.',
